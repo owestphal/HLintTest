@@ -13,3 +13,5 @@ brackets (x) = (x)
 
 str :: [Char]
 str = 'c' : []
+
+x = (4 + (5 + 6))
